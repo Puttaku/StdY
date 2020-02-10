@@ -1,0 +1,65 @@
+body {
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 15%;
+    background-color: #3D77FF;
+}
+
+h1 {
+    font-family: "Concert One";
+    letter-spacing: 0.3vw;
+    font-size: 11.5vh;
+    color: white;
+    text-align: center;
+    resize: both;
+}
+.subhead {
+    font-family: "Montserrat";
+    font-size: 4vw;
+    font-weight: 600;
+    margin: 10px;
+    margin-left: 0px;
+    text-align: center;
+}
+.subdetail {
+    font-family: "Montserrat";
+    font-weight: 500;
+    color: #848484;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.subcontent{
+    font-family: "Montserrat";
+    font-size: 2vw;
+    font-weight: 500;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pic {
+    width: 30%;
+    margin-top: 6vh;
+}
+
+.box {
+    text-align: center;
+}
+
+.reg_form {
+    text-align: center;
+}
+
+.button_default {
+    width: 12vw;
+    height: 7vh;
+    font-family: "Montserrat";
+    font-size: 1.5vw;
+    font-weight: 600;
+    color: white;
+    border-radius: 25px;
+    background-color: #2e66ff;
+}
